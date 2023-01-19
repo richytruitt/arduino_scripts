@@ -2,8 +2,8 @@
 #include <Ticker.h>
 #include <AsyncMqttClient.h>
 
-#define WIFI_SSID "ASUS_80_2G"
-#define WIFI_PASSWORD "jumper_2672"
+#define WIFI_SSID ""
+#define WIFI_PASSWORD ""
 
 #define MQTT_HOST IPAddress(192, 168, 50, 41)
 #define MQTT_PORT 1883
